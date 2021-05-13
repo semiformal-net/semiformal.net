@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: moonflower.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Future work
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Soon I will be able to host more professional infor about myself. Maintly the site exists so anyone who gets an email from *@semiformal.net might have somewhere to land.
