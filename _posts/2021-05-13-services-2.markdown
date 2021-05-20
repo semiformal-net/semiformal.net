@@ -2,7 +2,7 @@
 layout: default
 img: moonflower.jpg
 category: Services
-title: Future work
+title: New job
 description: |
 ---
-  Soon I will be able to host more professional infor about myself. Maintly the site exists so anyone who gets an email from *@semiformal.net might have somewhere to land.
+  I left my job as Director or Data Science and Model Innovation at Scotiabank. I have begun a new job at a stealth mode start-up. I wish I could give more details, but for now I can say it is a FinTech and that I will be leading their analytics department.
