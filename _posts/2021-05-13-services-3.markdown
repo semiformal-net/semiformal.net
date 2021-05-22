@@ -5,4 +5,4 @@ category: Services
 title: Speaking events
 description: |
 ---
-I have been giving some talks lately on machine learning in credit risk. Most recently at NVIDIA GTC 2021 (watch [here](https://drive.google.com/file/d/1XiQbHrNQ98Lb2AqXxCi6Hb74ChXrsMq8/view?usp=sharing)) and at World Alliance of Financial Center's *Global Webinar Series on AI in Finance: Focus on North America.* The events were both help virtually so I will post recordings when available.
+I have been giving some talks lately on machine learning in credit risk. Most recently at NVIDIA GTC 2021 (watch [here](https://youtu.be/y8cq8tEadZc)) and at World Alliance of Financial Center's *Global Webinar Series on AI in Finance: Focus on North America.* The events were both held virtually so I will post recordings when available.
