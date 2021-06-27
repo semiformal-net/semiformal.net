@@ -5,4 +5,4 @@ category: Services
 title: New job
 description: |
 ---
-  I left my job as Director or Data Science and Model Innovation at Scotiabank. I have begun a new job at a stealth mode start-up. I wish I could give more details, but for now I can say it is a FinTech and that I will be leading their analytics department.
+  I left my job as Director or Data Science and Model Innovation at Scotiabank. I have begun a new job at a FinTech startup called [Finaptic](https://finaptic.com/). We are building a white-label banking-as-a-service platform to help businesses access financial products in a modern way. I lead their analytics team which is in charge of all types of consumer decision modeling like risk, fraud, and cross-sell.
