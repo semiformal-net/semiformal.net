@@ -5,7 +5,7 @@ category: Services
 title: Credit risk data science
 description: |
 ---
-  I'm working on a python credit risk data science book. It will demonstrate how to do visualization, data manipulation and scorecard development using both tradiaitional (WOE) and machine learning techniques, all with open source tools. If you'd like to get updates on the progress and sample chapters signup below.
+  I'm working on a python credit risk data science book. It will demonstrate how to do visualization, data manipulation and scorecard development using both traditional (WOE) and machine learning techniques, all with open source tools. If you'd like to get updates on the progress and sample chapters signup below.
 
   Demonstration code we wrote with NVIDIA is available [here](https://github.com/rapidsai-community/showcase/tree/main/event_notebooks/GTC_2021/credit_scorecard) - [email me](mailto:paul.edwards@semiformal.net) if you need help using it.
 
