@@ -6,3 +6,5 @@ title: Speaking events
 description: |
 ---
 I have been giving some talks lately on machine learning in credit risk. Most recently at NVIDIA GTC 2021 (watch at [nvidia](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31327/) or [youtube](https://youtu.be/y8cq8tEadZc)) and at World Alliance of Financial Center's *Global Webinar Series on AI in Finance: Focus on North America.* The events were both held virtually so I will post recordings when available.
+
+I had the privilege of giving a guest lecture to University of Toronto Rotman students in the *Probabilistic Models and Prescriptive Analytics* class. My lecture was about keys to a successful machine learning project in an enterprise setting. Slide are available [here](https://docs.google.com/presentation/d/1IiRi0IobSQQBtE0LHY_2X5Z9CQgJ2Wy7ej4JGrh0p8E/edit?usp=sharing).
