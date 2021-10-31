@@ -1,4 +1,4 @@
-<section id="services">
+<section id="updates">
 <!-- Page Content -->
 {% for post in site.posts reversed %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
@@ -15,7 +15,7 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="" style="border:5px solid black">
+                    <img class="img-responsive" src="img/updates/{{ post.img }}" alt="" style="border:5px solid black">
                 </div>
             </div>
 
@@ -30,7 +30,7 @@
 
         <div class="container">
 
-            <div class="row">
+<!--             <div class="row"> -->
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
                     <hr class="section-heading-spacer">
                     <div class="clearfix"></div>
@@ -38,7 +38,7 @@
                     <div class="lead">{{ post.content }}</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
-                  <img class="img-responsive" src="img/services/{{ post.img }}" alt="" style="border:5px solid black">
+                  <img class="img-responsive" src="img/updates/{{ post.img }}" alt="" style="border:5px solid black">
                 </div>
             </div>
 

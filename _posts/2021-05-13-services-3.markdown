@@ -1,7 +1,7 @@
 ---
 layout: default
 img: spikes.jpg
-category: Services
+category: Updates
 title: Speaking events
 description: |
 ---

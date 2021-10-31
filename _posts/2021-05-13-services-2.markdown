@@ -1,7 +1,7 @@
 ---
 layout: default
 img: moonflower.jpg
-category: Services
+category: Updates
 title: New job
 description: |
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 img: desert_rose.jpg
-category: Services
+category: Updates
 title: Credit risk data science
 description: |
 ---
