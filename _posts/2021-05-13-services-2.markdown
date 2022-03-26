@@ -5,4 +5,4 @@ category: Updates
 title: New job
 description: |
 ---
-  I left my job as Director or Data Science and Model Innovation at Scotiabank. I have begun a new job at a FinTech startup called [Finaptic](https://finaptic.com/). We are building a white-label banking-as-a-service platform to help businesses access financial products in a modern way. I lead their analytics team where I am in in charge of all types of consumer decision modeling like risk, fraud, and cross-sell.
+  I left my job at [Finaptic](https://finaptic.com/) after their acquisition by National Bank. I am thrilled to now lead credit risk analytics and policy at [Wealthsimple](https://wealthsimple.com).
