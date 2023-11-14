@@ -5,4 +5,4 @@ category: Updates
 title: New job
 description: |
 ---
-  I left my job at [Finaptic](https://finaptic.com/) after their acquisition by National Bank. I am thrilled to now lead credit risk analytics and policy at [Wealthsimple](https://wealthsimple.com).
+  I have been promoted lead decision sciences (including fraud, credit and market risk) at [Wealthsimple](https://wealthsimple.com). I'm helping them manage financial risks in their brokerage and retail banking businesses, and helping design and scale new lending products.
