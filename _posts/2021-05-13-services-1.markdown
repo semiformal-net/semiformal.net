@@ -5,8 +5,8 @@ category: Updates
 title: Credit risk data science
 description: |
 ---
-  I'm working on a python credit risk data science book. It will demonstrate how to do visualization, data manipulation and scorecard development using both traditional (WOE) and machine learning techniques, all with open source tools. If you'd like to get updates on the progress and sample chapters signup below or by clicking [here](https://semiformal.us6.list-manage.com/subscribe/post?u=3cb64c2d50083841e15e976a9&id=d2349c4597).
+  We have submitted a [MITACS](https://www.mitacs.ca/en/programs/accelerate) research proposal in collaboration with the University of Manitoba to study LLMs in credit risk.
 
-  Demonstration code we wrote with NVIDIA is available [here](https://github.com/rapidsai-community/showcase/tree/main/event_notebooks/GTC_2021/credit_scorecard) - [email me](mailto:paul.edwards@semiformal.net) if you need help using it.
+  Demonstration code for boosted scorecards that we wrote with NVIDIA is available [here](https://github.com/rapidsai-community/showcase/tree/main/event_notebooks/GTC_2021/credit_scorecard) - [email me](mailto:paul.edwards@semiformal.net) if you need help using it.
 
-  {% include mailchimp.html %}
+  I've paused work on my python credit risk data science book for now. If you'd like to get updates click [here](https://semiformal.us6.list-manage.com/subscribe/post?u=3cb64c2d50083841e15e976a9&id=d2349c4597).
